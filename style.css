@@ -1,3 +1,4 @@
+
 .title {
     text-align: center;
 }
@@ -39,4 +40,12 @@
 #list div {
     margin-bottom: 10px;
     text-align: center;
+}
+
+.edit-button {
+    margin: 5px;
+}
+
+.delete-button {
+    margin: 5px;
 }
