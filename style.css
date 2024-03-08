@@ -27,6 +27,11 @@
     margin: 10px;
 }
 
+.empty-state {
+    margin: 0 auto;
+    text-align: center;
+}
+
 #list {
     flex-direction: column;
     display: flex;
@@ -48,4 +53,8 @@
 
 .delete-button {
     margin: 5px;
+}
+
+#empty-state {
+    text-align: center;
 }
